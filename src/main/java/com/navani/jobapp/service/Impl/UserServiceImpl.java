@@ -1,4 +1,4 @@
-package com.navani.jobapp.service.impl;
+package com.navani.jobapp.service.Impl;
 
 import com.navani.jobapp.entity.User;
 import com.navani.jobapp.repository.UserRepository;
